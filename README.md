@@ -3,7 +3,7 @@
 ### What you need: 
 - One of the FH games
 - A Raspberry Pi or other device that can run a Python server
-- sockets module for, well, socket server and struct module for unpacking data 
+- [sockets](https://docs.python.org/3/library/socket.html) module for, well, socket server and [struct](https://docs.python.org/3/library/struct.html) module for unpacking data 
 
 This script is using the Data Out feature of Forza games which you can read about [here](https://forums.forzamotorsport.net/turn10_postst128499_Forza-Motorsport-7--Data-Out--feature-details.aspx), on official Forza Motorsport forum
 
